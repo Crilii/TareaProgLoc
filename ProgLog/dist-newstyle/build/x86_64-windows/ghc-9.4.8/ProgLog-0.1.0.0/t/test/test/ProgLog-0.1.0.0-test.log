@@ -1,0 +1,37 @@
+Test suite test: RUNNING...
+Pruebas automatizadas:
+---------------------------------------
+N£meros del 1 al 10:
+N£mero: 1, Resultado: uno
+N£mero: 2, Resultado: FizzBuzz!
+N£mero: 3, Resultado: FizzBuzz!
+N£mero: 4, Resultado: cuatro
+N£mero: 5, Resultado: FizzBuzz!
+N£mero: 6, Resultado: seis
+N£mero: 7, Resultado: FizzBuzz!
+N£mero: 8, Resultado: ocho
+N£mero: 9, Resultado: nueve
+N£mero: 10, Resultado: diez
+---------------------------------------
+N£meros mayores a 100:
+N£mero: 101, Resultado: FizzBuzz!
+N£mero: 150, Resultado: uno cientos cincuenta cero
+N£mero: 200, Resultado: dos cientos cero
+N£mero: 500, Resultado: cinco cientos cero
+---------------------------------------
+N£meros primos:
+N£mero: 2, Resultado: FizzBuzz!
+N£mero: 3, Resultado: FizzBuzz!
+N£mero: 5, Resultado: FizzBuzz!
+N£mero: 7, Resultado: FizzBuzz!
+N£mero: 11, Resultado: FizzBuzz!
+N£mero: 13, Resultado: FizzBuzz!
+N£mero: 17, Resultado: FizzBuzz!
+N£mero: 19, Resultado: FizzBuzz!
+---------------------------------------
+N£meros mayores a 999,990:
+N£mero: 999991, Resultado: nueve cientos noventa nueve mil nueve cientos noventa uno
+N£mero: 999995, Resultado: nueve cientos noventa nueve mil nueve cientos noventa cinco
+N£mero: 999999, Resultado: nueve cientos noventa nueve mil nueve cientos noventa nueve
+Test suite test: PASS
+Test suite logged to: C:\Users\crili\OneDrive\Documentos\ProgLog\dist-newstyle\build\x86_64-windows\ghc-9.4.8\ProgLog-0.1.0.0\t\test\test\ProgLog-0.1.0.0-test.log
